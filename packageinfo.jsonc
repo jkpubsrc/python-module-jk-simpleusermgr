@@ -1,0 +1,52 @@
+{
+	"language": "python3",
+	"name": "jk_simpleusermgr",
+	"version": "0.2020.4.16",
+	"meta": {
+		"description": "This python module implements a very simple user manager. Such a simple user manager is convenient in a variety of situations for small applications.",
+		"keywords": [
+			"user"
+		],
+		"license": "Apache 2.0",
+		"development_status": "alpha",
+		"authors": [
+			{
+				"name": "Jürgen Knauth",
+				"email": "pubsrc@binary-overflow.de"
+			}
+		],
+		"wiki": {
+			"page": "DevDocs:jk_simpleusermgr"
+		}
+	},
+	"repositories": [
+		{
+			"type": "github",
+			"user": "jkpubsrc",
+			"project": "python-module-jk-simpleusermgr",
+			"devon_publish": false
+		},
+		{
+			"type": "pypi",
+			"project": "jk_simpleusermgr",
+			"devon_publish": false
+		}
+	],
+	"source": {
+		"packages": [
+			"jk_simpleusermgr"
+		],
+		"extra_data_files": [
+		],
+		"extra_binary_files": [
+		]
+	},
+	"requirements": {
+		"python_packages": [
+			"jk_utils"
+		],
+		"python_packages_dev": [
+		]
+	}
+}
+
