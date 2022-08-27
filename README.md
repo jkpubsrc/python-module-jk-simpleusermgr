@@ -8,7 +8,7 @@ This python module implements a very simple user manager. Such a simple user man
 
 Information about this module can be found here:
 
-* [github.org](https://github.com/jkpubsrc/....)
+* [github.com](https://github.com/jkpubsrc/python-module-jk-simpleusermgr)
 * [pypi.python.org](https://pypi.python.org/pypi/jk_simpleusermgr)
 
 Why this module?
